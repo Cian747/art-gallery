@@ -1,0 +1,15 @@
+App Name - Territory
+Description - Art gallery for upcoming artists with good SEO and comprtitive UI
+App Functionality
+1. User can view all the artworks in the gallery
+2. User can view the details of each artwork
+3. User can comment on a piece of art work
+4. User can like/dislike a piece of art work. OR The cna rate a piece of work using the star metric system.
+5. User can view the artist's profile and their artworks
+6. User can view the artworks by category.
+7. User should have a personal profile page that has all the artworks they have liked
+8. User can search for artworks by keyword ie Category, artist, date of upload.  --- Most likes can be future developement.
+
+
+Deadline: 09/09/2024
+Happy coding!!
