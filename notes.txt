@@ -9,7 +9,19 @@ App Functionality
 6. User can view the artworks by category.
 7. User should have a personal profile page that has all the artworks they have liked
 8. User can search for artworks by keyword ie Category, artist, date of upload.  --- Most likes can be future developement.
+9. User can upload their own artwork
+10. User can edit their own artwork
+11. User can delete their artwork
+12. Website consumes API
 
 
 Deadline: 09/09/2024
 Happy coding!!
+
+ -05/09/2024 - Tested the website connectivity with project and App
+ - To do - Create the database schema for the project
+         - Create the homepage
+         - Create the artist profile page
+         - Create the artwork page
+         - Create Navbar
+         - Create the search bar
